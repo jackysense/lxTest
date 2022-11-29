@@ -24,7 +24,7 @@
     "@lingui/macro": "^3.13.2",
     "@lingui/react": "^3.13.2",
     "@mui/icons-material": "^5.8.3",
-    "@mui/lab": "^5.0.0-alpha.110",
+    "@mui/lab": "^5.0.0-alpha.100",
     "@mui/material": "^5.8.3",
     "@mui/styles": "^5.8.6",
     "@rainbow-me/rainbowkit": "^0.4.6",
